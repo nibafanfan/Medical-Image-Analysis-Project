@@ -1,6 +1,6 @@
 # Medical-Image-Analysis-Project
-Medical Image Analysis Brain fMRI Synthesis Project
-Try out with Sample_data and Code folder. Below are some highlights from the report
+Medical Image Analysis Brain fMRI Synthesis Project (From T1w and T2w to FA and ADC)
+
 
 <img width="592" alt="image" src="https://github.com/nibafanfan/Medical-Image-Analysis-Project/assets/33424645/4735b1a3-f33c-42c4-a2c9-3ede129f5a61">
 <img width="572" alt="image" src="https://github.com/nibafanfan/Medical-Image-Analysis-Project/assets/33424645/397a8cd3-1f26-4b55-ad99-08635aa893e2">
