@@ -1,5 +1,5 @@
 # Medical-Image-Analysis-Project
-Medical Image Analysis Brain fMRI Synthesis Project (From T1w and T2w to FA and ADC)
+Medical Image Analysis Brain fMRI Synthesis Project (From T1w and T2w to FA and ADC). I collaborated with nbarnes on this project.
 
 Try out with sample data and code folders
 
